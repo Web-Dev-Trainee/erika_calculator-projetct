@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Coustard&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, rgb(255, 255, 255), rgb(224, 165, 75));
+}
+
+.card {
+  max-height: 10px;
+  margin-left: 110px;
+  margin-top: 80px;
+}
+.img {
+  width: 25%;
+  margin-bottom: 100%;
+}
+
+h1 {
+  text-align: center top;
+  font-family: "Codystar", cursive;
+  font-size: 50px;
+  color: #aaf;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+}
+
+.calculator {
+  max-width: 395px;
+  max-height: 500px;
+  border-radius: 35px;
+  margin: 30px auto;
+  padding: 10px;
+  /* background-color: #e2e7af; */
+  background-image: url(https://cdn.awsli.com.br/600x450/386/386639/produto/28797652/fdfd38a8a5.jpg);
+}
+
+.main {
+  padding: 70px;
+  font-size: 29px;
+  text-align: center;
+}
+
+.textview {
+  border: #f6f6f6;
+  border-radius: 10px;
+  margin: 8px auto;
+  width: 95%;
+  height: 30px;
+  font-size: 19px;
+  overflow: hidden;
+  text-align: right;
+  padding: 5px;
+  box-shadow: inset -1px -1px 4px 1px #eee;
+  border-radius: 9px;
+}
+
+#n0 {
+  border-radius: 5px;
+  margin: 10px;
+  width: 90px;
+  height: 50px;
+  border-radius: 25px;
+  border: #f6f6f6;
+  background-color: rgb(224, 114, 70);
+}
+
+.button {
+  width: 50px;
+  height: 50px;
+  font-size: 25px;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: "Codystar", cursive;
+  border: #f6f6f6;
+  border-radius: 30px;
+  background-color: #aaf;
+}
+
+input:focus {
+  box-shadow: 0 0 0 0;
+  outline: 0;
+}
