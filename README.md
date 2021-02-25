@@ -3,4 +3,4 @@
 <p>Calculator:</p>
 <img src="./img/calc.png" width="700">
 
-<video src="./img/gif.gif"></video>
+<img src="./img/gif.gif" width="700">
