@@ -1,4 +1,4 @@
-# Érika
+<h2>Érika</h2>
 
-<h3>Calculator</h3>
-<img src="./img/r2c3po.png" width="600">
+<p>Calculator:</p>
+<img src="./img/r2c3po.png" width="700">
